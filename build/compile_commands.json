@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/unik2/OS4/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgcd_euclid_and_binary_EXPORTS @CMakeFiles/gcd_euclid_and_binary.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\gcd_euclid_and_binary.dir\\src\\gcd_euclid_and_binary.c.obj -c C:\\Users\\User\\Desktop\\unik2\\OS4\\src\\gcd_euclid_and_binary.c",
+  "file": "C:/Users/User/Desktop/unik2/OS4/src/gcd_euclid_and_binary.c",
+  "output": "CMakeFiles/gcd_euclid_and_binary.dir/src/gcd_euclid_and_binary.c.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/unik2/OS4/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgcd_naive_and_ternary_EXPORTS @CMakeFiles/gcd_naive_and_ternary.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\gcd_naive_and_ternary.dir\\src\\gcd_naive_and_ternary.c.obj -c C:\\Users\\User\\Desktop\\unik2\\OS4\\src\\gcd_naive_and_ternary.c",
+  "file": "C:/Users/User/Desktop/unik2/OS4/src/gcd_naive_and_ternary.c",
+  "output": "CMakeFiles/gcd_naive_and_ternary.dir/src/gcd_naive_and_ternary.c.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/unik2/OS4/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/program1.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\program1.dir\\src\\program1.c.obj -c C:\\Users\\User\\Desktop\\unik2\\OS4\\src\\program1.c",
+  "file": "C:/Users/User/Desktop/unik2/OS4/src/program1.c",
+  "output": "CMakeFiles/program1.dir/src/program1.c.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/unik2/OS4/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/program2.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\program2.dir\\src\\program2.c.obj -c C:\\Users\\User\\Desktop\\unik2\\OS4\\src\\program2.c",
+  "file": "C:/Users/User/Desktop/unik2/OS4/src/program2.c",
+  "output": "CMakeFiles/program2.dir/src/program2.c.obj"
+}
+]

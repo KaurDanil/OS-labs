@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OS4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gcd_euclid_and_binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gcd_euclid_and_binary-Debug-83f0460e3ae073f33e47.json",
+					"name" : "gcd_euclid_and_binary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gcd_naive_and_ternary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gcd_naive_and_ternary-Debug-bd19e389d565d8c9c65b.json",
+					"name" : "gcd_naive_and_ternary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "program1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-program1-Debug-6d01a50c601a2851653f.json",
+					"name" : "program1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "program2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-program2-Debug-529e3a3b69b3fe6d27b3.json",
+					"name" : "program2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/unik2/OS4/build",
+		"source" : "C:/Users/User/Desktop/unik2/OS4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

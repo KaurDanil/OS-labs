@@ -1,0 +1,6 @@
+C:/Users/User/Desktop/unik2/OS4/build/CMakeFiles/gcd_euclid_and_binary.dir
+C:/Users/User/Desktop/unik2/OS4/build/CMakeFiles/gcd_naive_and_ternary.dir
+C:/Users/User/Desktop/unik2/OS4/build/CMakeFiles/program1.dir
+C:/Users/User/Desktop/unik2/OS4/build/CMakeFiles/program2.dir
+C:/Users/User/Desktop/unik2/OS4/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/unik2/OS4/build/CMakeFiles/rebuild_cache.dir
